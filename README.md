@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalark&label=Profile%20views&color=0e75b6&style=flat" alt="amalark" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amalark" alt="amalark" /></a> </p>
-
 - 📫 How to reach me **amal.ar.khalili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
